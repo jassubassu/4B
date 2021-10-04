@@ -21,7 +21,22 @@ p   {
     background-color: #ADD8E6;
     font-size: 25px;
     border-radius: 30px;
+    border-style: inset;
+    border-width: 5px;
+    border-color:skyblue;
     padding: 20px;
     width: 200px;
-    height: 70px;
+    height: 65px;
+}
+
+figcaption  {
+    background-color: #ADD8E6;
+    font-size: 25px;
+    border-radius: 30px;
+    border-style: inset;
+    border-width: 5px;
+    border-color:skyblue;
+    padding: 20px;
+    width: 200px;
+    height: 65px;
 }

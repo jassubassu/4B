@@ -18,11 +18,25 @@ body    {
 }
 
 p   {
-    text-align: center;
     background-color: #FFEBCD;
     font-size: 25px;
     border-radius: 30px;
+    border-style: inset;
+    border-width: 5px;
+    border-color:orchid;
     padding: 20px;
     width: 200px;
-    height: 70px;
+    height: 65px;
+}
+
+figcaption  {
+    background-color: #FFEBCD;
+    font-size: 25px;
+    border-radius: 30px;
+    border-style: inset;
+    border-width: 5px;
+    border-color:orchid;
+    padding: 20px;
+    width: 200px;
+    height: 65px;
 }
