@@ -1,11 +1,11 @@
 a:hover {
-    color:mediumvioletred;
+    background-color: #f191d5;
+    color: rgb(252, 245, 245);
 }
 
 a   {
     background-color: #ADD8E6;
     font-size: 25px;
-    border-radius: 30px;
     border-style: inset;
     border-width: 7px;
     border-color:skyblue;
@@ -30,6 +30,7 @@ p   {
     padding: 20px;
     width: 200px;
     height: 65px;
+    margin-left: 41.3%;
 }
 
 figcaption  {
@@ -42,4 +43,32 @@ figcaption  {
     padding: 20px;
     width: 200px;
     height: 34px;
+    margin-left: 41.3%;
 }
+
+.topnav {
+    background-color: #FFEBCD;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float:left;
+    color:purple;
+    text-align: center;
+    padding: 15px 35px 15px;
+    text-decoration: none;
+    font-size: 30px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color:rgb(247, 192, 228);
+    color: white;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #f191d5;
+    color: rgb(252, 245, 245);
+  }
