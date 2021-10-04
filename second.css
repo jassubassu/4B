@@ -1,5 +1,5 @@
 a:hover {
-    background-color: #f191d5;
+    background-color: rgb(193, 192, 247);
     color: rgb(252, 245, 245);
 }
 
@@ -30,7 +30,7 @@ p   {
     padding: 20px;
     width: 200px;
     height: 65px;
-    margin-left: 41.3%;
+    margin:auto;
 }
 
 figcaption  {
@@ -43,11 +43,11 @@ figcaption  {
     padding: 20px;
     width: 200px;
     height: 34px;
-    margin-left: 41.3%;
+    margin: auto;
 }
 
 .topnav {
-    background-color: #FFEBCD;
+    background-color: #cde9ff;
     overflow: hidden;
   }
   
@@ -63,12 +63,12 @@ figcaption  {
   
   /* Change the color of links on hover */
   .topnav a:hover {
-    background-color:rgb(247, 192, 228);
+    background-color:rgb(193, 192, 247);
     color: white;
   }
   
   /* Add a color to the active/current link */
   .topnav a.active {
-    background-color: #f191d5;
-    color: rgb(252, 245, 245);
+    background-color: #9197f1;
+    color: rgb(245, 251, 252);
   }
