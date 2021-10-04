@@ -1,3 +1,11 @@
+#main-header  {
+    text-align:center;
+    background-color:rgb(201, 152, 194);
+    color:white;
+    font-size: 35px;
+    padding:20px;
+}
+
 a:hover {
     background-color: #f191d5;
     color: rgb(252, 245, 245);
