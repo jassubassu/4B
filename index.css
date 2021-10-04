@@ -52,7 +52,6 @@ figcaption  {
     overflow: hidden;
   }
   
-  /* Style the links inside the navigation bar */
   .topnav a {
     float:left;
     color:purple;
@@ -62,13 +61,11 @@ figcaption  {
     font-size: 30px;
   }
   
-  /* Change the color of links on hover */
   .topnav a:hover {
     background-color:rgb(247, 192, 228);
     color: white;
   }
   
-  /* Add a color to the active/current link */
   .topnav a.active {
     background-color: #f191d5;
     color: rgb(252, 245, 245);
