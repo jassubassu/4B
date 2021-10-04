@@ -1,3 +1,9 @@
 a:hover {
     color:mediumvioletred;
 }
+
+body    {
+    background-color: "#E6E6FA";
+    text-align: center;
+    color: purple;
+}

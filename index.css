@@ -1,3 +1,9 @@
 a:hover {
     color:hotpink;
 }
+
+body    {
+    background-color: "FFFAF0";
+    text-align: center;
+    color: purple;
+}
