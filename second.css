@@ -2,8 +2,26 @@ a:hover {
     color:mediumvioletred;
 }
 
+a   {
+    background-color: #ADD8E6;
+    font-size: 25px;
+    border-radius: 30px;
+    padding: 20px;
+    width: 200px;
+    height: 70px;
+}
+
 body    {
     background-color: "#E6E6FA";
     text-align: center;
     color: purple;
+}
+
+p   {
+    background-color: #ADD8E6;
+    font-size: 25px;
+    border-radius: 30px;
+    padding: 20px;
+    width: 200px;
+    height: 70px;
 }

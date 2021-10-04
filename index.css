@@ -2,8 +2,27 @@ a:hover {
     color:hotpink;
 }
 
+a   {
+    background-color: #FFEBCD;
+    font-size: 25px;
+    border-radius: 30px;
+    padding: 20px;
+    width: 200px;
+    height: 70px;
+}
+
 body    {
     background-color: "FFFAF0";
     text-align: center;
     color: purple;
+}
+
+p   {
+    text-align: center;
+    background-color: #FFEBCD;
+    font-size: 25px;
+    border-radius: 30px;
+    padding: 20px;
+    width: 200px;
+    height: 70px;
 }
