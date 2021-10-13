@@ -1,0 +1,95 @@
+.header{
+    text-align:center;
+    background-color:rgb(190, 162, 130);
+    color:white;
+    font-size: 35px;
+    padding:20px;
+  }
+  
+  a:hover {
+      background-color: rgb(247, 237, 192);
+      color: rgb(252, 245, 245);
+  }
+  
+  a   {
+      background-color: #e6e2ad;
+      font-size: 25px;
+      border-style: inset;
+      border-width: 7px;
+      border-color:rgb(235, 192, 135);
+      padding: 20px;
+      width: 200px;
+      height: 70px;
+  }
+  
+  body    {
+    background-color: "#E6E6FA";
+    text-align: center;
+    color: rgb(128, 30, 0);
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  #lause   {
+      background-color: #e0e6ad;
+      font-size: 25px;
+      text-align: center;
+      border-radius: 30px;
+      border-style: inset;
+      border-width: 7px;
+      border-color:rgb(192, 235, 135);
+      padding: 20px;  
+      width: 200px;
+      height: 65px;
+      margin:auto;
+  }
+  
+  #section  {
+    background-color: #e0e6ad;
+    font-size: 25px;
+    float: left;
+    width: 15%;
+    border-style: inset;
+    border-width: 7px;
+    border-color:rgb(192, 235, 135);
+
+  }
+
+  figcaption  {
+      background-color: #d5e6ad;
+      font-size: 25px;
+      border-radius: 30px;
+      border-style: inset;
+      border-width: 7px;
+      border-color:rgb(213, 235, 135);
+      padding: 20px;
+      width: 200px;
+      height: 34px;
+      margin: auto;
+  }
+  
+  .topnav {
+      background-color: #f6ffcd;
+      overflow: hidden;
+      float: left;
+    }
+    
+    .topnav a {
+        display: block;
+        color:rgb(128, 9, 0);
+        text-align: center;
+        padding: 15px 35px 15px;
+        text-decoration: none;
+        font-size: 30px;
+    }
+    
+    .topnav a:hover {
+      background-color:rgb(247, 243, 192);
+      color: white;
+    }
+    
+    .topnav a.active {
+      background-color: #f1d391;
+      color: rgb(251, 252, 245);
+    }

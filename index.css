@@ -26,6 +26,9 @@ body    {
     background-color: "#FFF0F5";
     text-align: center;
     color: purple;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 p   {
