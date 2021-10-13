@@ -40,14 +40,26 @@
       border-style: inset;
       border-width: 7px;
       border-color:rgb(192, 235, 135);
-      padding-bottom: 70px; 
+      padding-bottom: 60px; 
       padding-left: 50px;
       padding-right: 50px; 
       width: 200px;
       height: 65px;
       margin:auto;
   }
-  
+
+#click  {
+    background-color: #e6e2ad;
+    font-size: 25px;
+    border-style: inset;
+    border-width: 7px;
+    border-color:rgb(235, 192, 135);
+    padding: 20px;
+    width: 70px;
+    height: 40px;
+    float: right;
+}
+
   #section  {
     background-color: #e0e6ad;
     font-size: 25px;
