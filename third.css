@@ -39,7 +39,9 @@
       border-style: inset;
       border-width: 7px;
       border-color:rgb(192, 235, 135);
-      padding: 20px;  
+      padding-bottom: 40px; 
+      padding-left: 20px;
+      padding-right: 20px; 
       width: 200px;
       height: 65px;
       margin:auto;
