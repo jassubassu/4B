@@ -58,6 +58,7 @@
     width: 70px;
     height: 40px;
     float: right;
+    margin-right: 7%;
 }
 
   #section  {
@@ -69,7 +70,6 @@
     border-style: inset;
     border-width: 7px;
     border-color:rgb(192, 235, 135);
-
   }
 
   figure{
