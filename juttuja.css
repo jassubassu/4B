@@ -8,12 +8,6 @@
 	border: 2px solid rgb(175, 67, 117) !important;
 }
 
-.center {
-	text-align: center;
-    background-color: rgb(248, 236, 242);
-    color: rgb(158, 56, 107);
-}
-
 .nav    {
     background-color: rgb(248, 233, 242);
 }
@@ -92,6 +86,7 @@ footer      {
 
 .loppu      {
     padding-top: 10px;
+    text-align: center;
 }
 
 body    {
