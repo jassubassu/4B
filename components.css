@@ -1,0 +1,98 @@
+.logo {
+	float: left;
+	padding: 8px;
+    border-right: 2px solid rgb(175, 67, 117)
+}
+
+.border {
+	border: 2px solid rgb(175, 67, 117) !important;
+}
+
+.center {
+	text-align: center;
+}
+
+.full-width {
+	width: 100%;
+}
+
+.row {
+	margin-bottom: 10px;
+}
+
+header  {
+    color: rgb(202, 106, 159);
+    background-color: rgb(247, 195, 227);
+    text-align: center;
+}
+
+li  {
+    list-style: none;
+    border: 2px solid rgb(175, 67, 117)
+}
+
+.nav-link:hover     {
+    color: rgb(255, 255, 255);
+}
+
+.nav-link      {
+    color: rgb(197, 23, 110);
+}
+
+body    {
+    background-color: rgb(252, 246, 249);
+    color:rgb(175, 67, 117);
+    text-align: center;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+h1  {
+    padding-bottom: 20px;
+    padding-top: 10px;
+    background-color: rgb(247, 195, 227);
+    border: 2px solid rgb(175, 67, 117)
+}
+
+.col    {
+    background-color: rgb(247, 230, 240);
+    color: rgb(173, 78, 126);
+    font-size: 25px;
+}
+
+.img-fluid  {
+    padding: 30px;
+}
+
+.rounded-circle {
+    background-color: rgb(247, 230, 240);
+    color: rgb(173, 78, 126);
+    font-size: 25px;
+    text-align: center;
+    width: 320px;
+    height: 320px;
+    border: 2px solid rgb(175, 67, 117)
+}
+
+.rounded-circle:hover   {
+    background-color: rgb(228, 183, 210);
+    color: rgb(134, 42, 88);
+    font-size: 25px;
+    text-align: center;
+    width: 320px;
+    height: 320px;
+    padding: 10px;
+    border: 2px solid rgb(151, 50, 97)
+}
+
+footer      {
+    font-size: 30px;
+    background-color: rgb(247, 195, 227);
+    color: rgb(202, 106, 159);
+}
+
+.loppu      {
+    padding-top: 10px;
+}
