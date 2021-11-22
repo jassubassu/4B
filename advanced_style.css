@@ -4,6 +4,13 @@ body    {
     margin-right: auto;
 }
 
+@media only screen and (max-width: 800px) {
+    body {
+      background-color: black;
+      color: white;
+    }
+}
+
 .main-header    {
     background-color: plum;
     color: white;
@@ -14,6 +21,7 @@ body    {
 
 .section    {
     background-image: url("sydän.jpg");
+    background-size: cover;
     font-size: 20px;
     color: rgb(99, 11, 99);
     padding: 15px;
@@ -32,4 +40,25 @@ body    {
     padding: 15px;
     border: 2px solid rgb(99, 11, 99);
     text-shadow: 2px 2px rgb(241, 232, 241);
+}
+
+.links      {
+    font-size: 30px;
+    color: royalblue;
+}
+
+a           {
+    border-style: solid;
+    border-color: slateblue;
+    padding: 5px;
+    background-color: lightskyblue;
+    transition-duration: 1s;
+}
+
+a:hover     {
+    border-style: solid;
+    border-color: rgb(153, 44, 44);
+    padding: 5px;
+    background-color: rgb(223, 106, 106);
+    color: red;
 }
