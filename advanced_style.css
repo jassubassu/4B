@@ -13,13 +13,14 @@ body    {
 }
 
 .section    {
-    background-color: plum;
+    background-image: url("sydän.jpg");
     font-size: 20px;
     color: rgb(99, 11, 99);
     padding: 15px;
     width: 50%;
     float: left;
     border: 2px solid rgb(99, 11, 99);
+    box-shadow: 8px 13px rgb(110, 70, 110);
 }
 
 .sidebar    {
@@ -30,4 +31,5 @@ body    {
     color: rgb(99, 11, 99);
     padding: 15px;
     border: 2px solid rgb(99, 11, 99);
+    text-shadow: 2px 2px rgb(241, 232, 241);
 }
