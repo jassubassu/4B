@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="fi">
+
+<head>
+    <meta charset="UTF-8">
+    <link href="styletable.css" rel="stylesheet">
+    <title>Pöytä</title>
+</head>
+
+<body>
+
+    <header>
+        <h2>Hello world!</h2>
+    </header>
+
+    <br>
+    <br>
+
+    <h3>Henkilöiden pidettävyys ja heidän todennäköisyys menestyä.</h3>
+
+    <table>
+        <tr>
+          <th>Henkilö</th>
+          <th>Pidettävyys</th>
+          <th>Menestyminen</th>
+
+        </tr>
+        <tr>
+          <td>Inkuli</td>
+          <td>94%</td>
+          <td>85%</td>
+        </tr>
+        <tr>
+          <td>Jassukissa</td>
+          <td>100%</td>
+          <td>100%</td>
+        </tr>
+        <tr>
+            <td>Pekka</td>
+            <td>30%</td>
+            <td>1%</td>
+        </tr>
+        <tr>
+          <td colspan="3">Paras tyyppi: Jassukissa</td>
+        </tr>
+      </table>
+
+      <br>
+      <br>
+
+      <div class="form">
+        <p class="otsikko">
+            Jos haluat että arvioimme sinut, lähetä tietosi alta:
+        </p>
+
+         <form action="https://www.w3schools.com/action_page.php">
+            <label for="nimi">Nimi:</label>
+            <input type="text" id="nimi" name="nimi" required><br><br>
+            <label for="ika">Ikä:</label>
+            <input type="text" id="ika" name="ika" required><br><br>
+            <label for="kaverimaara">Kaverimäärä:</label>
+            <input type="text" id="kaverimaara" name="kaverimaara" required><br><br>
+            <label for="kuukausitulos">Kuukausitulot:</label>
+            <input type="text" id="kuukausitulos" name="kuukausitulot" required><br>
+            <p>Kerro itsestäsi:</p>
+            <textarea name="message" rows="4"></textarea><br><br>
+            <label for="juttu">Kuka on paras?</label>
+                <select name="juttu" id="juttu">
+                <option value="jassukissa">Jassukissa</option>
+                <option value="inkuli">Inkuli</option>
+                <option value="pekka">Pekka</option>
+            </select><br><br>
+            <input type="checkbox" id="suostumus" name="suostumus">
+            <label for="suostumus">Hyväksyn ehdot</label>
+            <input type="submit" value="Add user">
+        </form>
+    </div>
+
+    <br>
+    <br>
+
+</body>
+
+</html>
